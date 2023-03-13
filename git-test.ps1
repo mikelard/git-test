@@ -47,7 +47,7 @@ function SendMail {
 
 $Emailbody = @"
      <html>
-          <head<</head>
+          <head></head>
           <body>
                <p>Git testing</p>
           </body>
